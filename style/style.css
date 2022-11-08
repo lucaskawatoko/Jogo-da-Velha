@@ -113,7 +113,7 @@ h1{
 /* msg de vitória */
 
 #message p {
-    position: auto;
+    position: relative;
     margin-left: auto;
     margin-right: auto;
     left: 0;
